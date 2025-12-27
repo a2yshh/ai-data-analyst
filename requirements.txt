@@ -6,8 +6,4 @@ numpy
 scikit-learn
 forecast
 statsmodels
-seaborn 
-pathlib
-duckdb
-eda
 router
